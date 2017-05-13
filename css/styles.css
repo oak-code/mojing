@@ -1,0 +1,33 @@
+ 
+	body{ 	text-align:center;
+			background:rgb(104,205,213); /* 背景色 */ 
+		} 
+	.back {	text-align:left; /* 文字等内容居中 */ }
+	.logo {  
+		
+		margin: 0 auto; /* 居中*/ 
+		background:red; /* 背景色 */ 		
+		text-align:center; /* 文字等内容居中 */ 
+		}
+	.state {
+		
+		
+		margin:0 auto; 
+		padding :15%;
+		background: yellow;
+	
+		}
+
+	.box {background:red; /* 背景色 */ }
+	.user {	
+			
+			background:red; /* 背景色 */ 
+		}
+	.bjptteng 
+			{
+				position: absolute;
+				float: left; 
+				background:red;
+			
+				 
+			}
