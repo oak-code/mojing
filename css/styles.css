@@ -2,18 +2,35 @@
 	body{ 	text-align:center;
 			background:rgb(104,205,213); /* 背景色 */ 
 		} 
-	.box1 {	background: yellow;
-	}
+	.box1 	{	background: yellow;
+				padding-right:100%;
+				float :left;
+			}
 	.back { background:red;
 
 	}
-	.logo {  background:red; /* 背景色 */ 		}
-	.state { background: yellow;}
+	.logo 	{ 
+				
+				
+				padding-top:15%;
+				margin:auto ;
+			}
+	.state { 
+			padding-left:20%;
+			padding-right:20%;
+			padding-top:10%;
+			
+			background: rgb(104,205,213);
+			float :left;
+			}
 
-	.box { background:red; /* 背景色 */}
-	.user {	background:red; /* 背景色 */
+	.box { background:rgb(104,205,213); /* 背景色 */}
+	.user {	background:rgb(104,205,213); /* 背景色 */
 			float:left;
 	}
-	.bjptteng { background:red;
+	.bjptteng { background:rgb(104,205,213);
 				float:right;
 	}
+	.txt{	color:rgb(255,255,255);
+			font-size:25px;
+	 }
