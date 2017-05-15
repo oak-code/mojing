@@ -6,31 +6,44 @@
 				padding-right:100%;
 				float :left;
 			}
-	.back { background:red;
+	.back { width:32px;
 
 	}
-	.logo 	{ 
-				
-				
-				padding-top:15%;
-				margin:auto ;
+	.logo 	{ 	
+				width:150px;	
+				margin-top:100px;
 			}
 	.state { 
+			margin-bottom:100px;
 			padding-left:20%;
 			padding-right:20%;
 			padding-top:10%;
-			
 			background: rgb(104,205,213);
 			float :left;
 			}
 
-	.box { background:rgb(104,205,213); /* 背景色 */}
-	.user {	background:rgb(104,205,213); /* 背景色 */
+	.box2 	{
+			
+			background:rgb(104,205,213); /* 背景色 */
+		
+			}
+	.user {	
+				
+			margin-left:20%;
+			background:rgb(104,205,213); /* 背景色 */
 			float:left;
-	}
-	.bjptteng { background:rgb(104,205,213);
+			}
+	.userimg {	
+			width:40px;
+			}
+	.bjptteng { 
+				margin-right:20%;
+				background:rgb(104,205,213);
 				float:right;
-	}
+				}
+	.bjpttengimg { 
+				width:40px;
+				}
 	.txt{	color:rgb(255,255,255);
-			font-size:25px;
+			font-size:15px;
 	 }
