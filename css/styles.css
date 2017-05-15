@@ -44,6 +44,9 @@
 	.bjpttengimg { 
 				width:40px;
 				}
-	.txt{	color:rgb(255,255,255);
+				
+	.txt{	
+			text-align: left;
+			color:rgb(255,255,255);
 			font-size:15px;
 	 }
